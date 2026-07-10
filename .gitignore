@@ -1,0 +1,8 @@
+# DevWeb3Jogja context repo
+docs/private/
+
+# File di atas tetep bisa dibaca Claude Code dari disk, cuma ga ke-push ke remote.
+# Bias ke private kalo ragu naruh sesuatu baru.
+
+.DS_Store
+.env
